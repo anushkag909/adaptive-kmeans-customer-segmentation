@@ -34,5 +34,39 @@ The model successfully groups customers into meaningful clusters, enabling bette
 
 Created by Anushka G
 
+# 📸 Project Screenshots
+
+### Dataset Preview
+
+![Dataset Preview](Dataset_Preview.png)
+
+### Age Distribution
+
+![Age Distribution](Age_Distribution.png)
+
+### Gender Distribution
+
+![Gender Distribution](Gender_Distribution.png)
+
+### Annual Income Distribution
+
+![Annual Income Distribution](Annual_Income_Distribution.png)
+
+### Spending Score Distribution
+
+![Spending Score Distribution](Spending_Score_Distribution.png)
+
+### Customer Distribution
+
+![Customer Distribution](Customer_Distribution.png)
+
+### Elbow Method
+
+![Elbow Method](Elbow_Method.png)
+
+### Customer Segmentation (K-Means)
+
+![Customer Segmentation](Customer_Segmentation_KMeans.png)
+
 ---
 Created by Anushka G
